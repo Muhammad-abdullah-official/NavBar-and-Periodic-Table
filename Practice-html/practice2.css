@@ -1,0 +1,23 @@
+ body {
+     background-color: lightgray;
+
+
+ }
+
+ .im {
+     padding: 0;
+     margin: 0%;
+     height: auto;
+     width: auto;
+
+ }
+
+ body.h {
+     text-align: center;
+     margin: 0px;
+     padding: 10px;
+     color: rgb(92, 108, 130);
+     background-color: rgba(176, 196, 222, 0.535);
+ }
+
+ 
